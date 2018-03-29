@@ -1,12 +1,14 @@
 {
   "name": "@oliboy50/listal-exporter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Extract data from a list on Listal website.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Oliboy50",
+  "repository": "github:Oliboy50/listal-exporter",
+  "url": "https://github.com/Oliboy50/listal-exporter/issues",
   "license": "MIT",
   "dependencies": {
     "cheerio": "1.0.0-rc.2",

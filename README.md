@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/%40oliboy50%2Flistal-exporter.svg)](https://www.npmjs.com/package/@oliboy50/listal-exporter)
+
 # listal-exporter
 
 Leverages [jsonframe-cheerio](https://github.com/gahabeen/jsonframe-cheerio) to extract data from a list on [listal](http://www.listal.com).
