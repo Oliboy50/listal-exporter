@@ -1,5 +1,5 @@
 {
-  "name": "@Oliboy50/listal-exporter",
+  "name": "@oliboy50/listal-exporter",
   "version": "0.1.0",
   "description": "Extract data from a list on Listal website.",
   "main": "index.js",

@@ -5,13 +5,13 @@ Leverages [jsonframe-cheerio](https://github.com/gahabeen/jsonframe-cheerio) to 
 ## Install
 
 ```shell
-npm install --save @Oliboy50/listal-exporter
+npm install --save @oliboy50/listal-exporter
 ```
 
 ## Usage
 
 ```js
-const listalExporter = require('@Oliboy50/listal-exporter');
+const listalExporter = require('@oliboy50/listal-exporter');
 
 // This "html" will be passed to "cheerio.load()" function (so it can be everything cheerio can load)
 const html = htmlOfTheListalListToExtractDataFrom;
